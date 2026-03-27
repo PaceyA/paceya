@@ -1,37 +1,38 @@
-<h1>Hi There 👋, I'm Alex Pacey</h1>
-<h3>Welcome to my GitHub</h3>
+## Hi there 👋, I'm Alex Pacey
 
-<p>I am Alex Pacey. I am a software developer from the UK and have a undergraduate degree in Computer Science. I am experienced in a number of programming languages and frameworks 
-  and have been a full stack developer for a number of years. I am trying to be more productive outside of work and am spending some time building projects of my own in a variety of different areas.
-</p>
+Welcome to my GitHub!
 
-<h4>My Favourite Projects 🥳</h4>
+I'm a software developer from the UK with an undergraduate degree in Computer Science. I have several years of experience as a full-stack developer, working with a range of programming languages and frameworks.
 
-<ul>
-  <li>Daily Games Spot (<a href="https://dailygamespot.com">Visit</a>) - A website containing a list of daily games (like Wordle) I enjoy and play with friends.</li>
-</ul>
-
-<h4>What do I have experience in❓</h4>
-
-<p >
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23DD1100?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%23%2F.NET-%23512BD4?style=for-the-badge&logo=.net&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+Lately, I’ve been focusing on building personal projects outside of work to explore new ideas and improve my skills across different areas.
 
 
-</p>
 
-<h2>Contact Me</h2>
-<h4>Contact Me at my email: alex.pacey99@outlook.com</h4>
-<h4>Or find me on my socials:</h4>
-<p>
-  <a href="https://www.linkedin.com/in/alexander-pacey-8a27921b8"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="45" /></a>
-</p>
+## 🚀 Favourite Projects
 
+- **Daily Games Spot** ([Visit](https://dailygamespot.com))  
+  A curated hub of daily web games where users can browse, filter, and save favourites. The platform aggregates popular games (like Wordle), supports community submissions, and includes an admin system for managing new entries.
+
+- **Cover Letter Templater** ([Visit](https://github.com/PaceyA/Cover-Letter-Templater))  
+  A full-stack web application that runs locally, leveraging Ollama and a user-selected LLM to generate, refine, save, and export cover letter drafts.
+
+
+
+## 🛠️ Tech & Experience
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD1100?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+## 📫 Contact Me
+
+📧 **alex.pacey99@outlook.com**  
+💼 **[LinkedIn Profile](https://www.linkedin.com/in/alexander-pacey-8a27921b8)**
